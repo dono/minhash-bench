@@ -1,0 +1,24 @@
+goos: darwin
+goarch: amd64
+BenchmarkHdAllSearch1-4   	    1000	   1237487 ns/op
+BenchmarkHdAllSearch1-4   	    1000	   1216059 ns/op
+BenchmarkHdAllSearch1-4   	    1000	   1222030 ns/op
+BenchmarkHdAllSearch1-4   	    1000	   1218362 ns/op
+BenchmarkHdAllSearch1-4   	    1000	   1233546 ns/op
+BenchmarkHdAllSearch1-4   	    1000	   1206389 ns/op
+BenchmarkHdAllSearch1-4   	    1000	   1209338 ns/op
+BenchmarkHdAllSearch1-4   	    1000	   1228112 ns/op
+BenchmarkHdAllSearch1-4   	    1000	   1233157 ns/op
+BenchmarkHdAllSearch1-4   	    1000	   1206739 ns/op
+BenchmarkHdAllSearch2-4   	    1000	   1230597 ns/op
+BenchmarkHdAllSearch2-4   	    1000	   1254232 ns/op
+BenchmarkHdAllSearch2-4   	    1000	   1238294 ns/op
+BenchmarkHdAllSearch2-4   	    1000	   1243348 ns/op
+BenchmarkHdAllSearch2-4   	    1000	   1236830 ns/op
+BenchmarkHdAllSearch2-4   	    1000	   1269511 ns/op
+BenchmarkHdAllSearch2-4   	    1000	   1242754 ns/op
+BenchmarkHdAllSearch2-4   	    1000	   1228281 ns/op
+BenchmarkHdAllSearch2-4   	    1000	   1237148 ns/op
+BenchmarkHdAllSearch2-4   	    1000	   1244261 ns/op
+PASS
+ok  	_/Users/neet/Desktop/test	27.898s
